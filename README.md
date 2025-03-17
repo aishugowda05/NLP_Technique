@@ -36,6 +36,19 @@ Sentiment analysis provides valuable insights into public opinion, and visualizi
 By implementing best practices, we ensure error-free, insightful, and future-proof sentiment analysis, helping businesses and researchers make data-driven decisions. 
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/1deda376-8b57-4c4c-8192-1aca06adc725)
+
+![Image](https://github.com/user-attachments/assets/efa5c45f-5b90-4c10-9bc0-a5c167f60703)
+
+![Image](https://github.com/user-attachments/assets/13e37184-4dcc-4759-8295-507e9610af09)
+
+![Image](https://github.com/user-attachments/assets/6ba872a0-0534-4c8a-aa79-78aca06299b1)
+
+![Image](https://github.com/user-attachments/assets/f1993dc0-7a01-4a51-a23f-7a23cd39049a)
+
+![Image](https://github.com/user-attachments/assets/114b7f11-c9a8-4fb3-a790-7c8b5e94b185)
+
+![Image](https://github.com/user-attachments/assets/93e13a74-236c-414d-89e3-0a50475ea567)
 
 
 
